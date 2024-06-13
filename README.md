@@ -1,1 +1,1 @@
-# Jaspion (Beta, v. 0.1
+# Jaspion (Beta, v. 0.1)
